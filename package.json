@@ -1,14 +1,9 @@
 {
-    "name": "entropyjs",
+    "name": "twee",
     "preferGlobal": false,
     "version": "0.0.1",
-<<<<<<< HEAD
     "author": "Peter Sibirtsev <sibirtsev.peter@gmail.com>",
-    "homepage": "https://github.com/mesin/entropyjs.git",
-=======
-    "author": "Dmitri Mesin <dmitri.mesin@gmail.com>",
-    "homepage": "https://github.com/mesin/entropyjs",
->>>>>>> e885f9a (Gitignore)
+    "homepage": "https://github.com/sbrsv/entropyjs.git",
     "description": "EntropyJS Framework designed to avoid editing code when you write and setting up your Express.js application. Most of things you will need to do - is to edit configuration in .json files. No code editing required. Modular structire allows you to organize your modules, such as, blog, forum etc. And organize them, turn them on/off",
     "dependencies": {
         "node-fs": "*",
@@ -18,6 +13,7 @@
         "express": "*",
         "path": "*",
         "swig": "*",
+        "jade": "*",
         "serve-favicon": "*",
         "morgan": "*",
         "cookie-parser": "*",
@@ -28,6 +24,8 @@
         "express-mailer": "*",
         "colors": "*",
         "localize": "*",
-        "q-orm": "*"
+        "q-orm": "*",
+        "express-promise": "*",
+        "object-to-xml": "*"
     }
 }
