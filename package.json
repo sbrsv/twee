@@ -1,16 +1,48 @@
 {
-    "name": "twee",
-    "preferGlobal": false,
-    "version": "0.0.1",
-    "author": "Peter Sibirtsev <sibirtsev.peter@gmail.com>",
-    "homepage": "https://github.com/sbrsv/twee",
-    "description": "EntropyJS Framework designed to avoid editing code when you write and setting up your Express.js application. Most of things you will need to do - is to edit configuration in .json files. No code editing required. Modular structire allows you to organize your modules, such as, blog, forum etc. And organize them, turn them on/off",
-    "license": "MIT",
-    "dependencies": {
-        "twee-extensions": "git+https://github.com/mesin/twee-extensions.git",
-        "express": "*",
-        "path": "*",
-        "colors": "*",
-        "debug": "*"
-    }
+  "name": "twee",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "homepage": "https://github.com/sbrsv/twee",
+  "author": "Peter Sibirtsev <sibirtsev.peter@gmail.com>",
+  "description": "Twee Framework - the most powerful, elegant and extensive framework for Node.js based on Express.js",
+  "license": "MIT",
+  "dependencies": {
+    "twee-extensions": "*",
+    "express": "*",
+    "colors": "*",
+    "debug": "*",
+    "path": "*",
+    "fs": "*",
+    "events": "*"
+  "main": "index.js",
+  },
+  "directories": {
+    "test": "tests"
+  },
+  }
+    "url": "https://github.com/mesin/twee/issues"
+  ],
+  "bugs": {
+    "views",
+    "extensions"
+    "controllers",
+    "modules",
+    "mvc",
+    "rest",
+    "restful",
+    "api",
+    "router",
+    "app",
+    "web",
+    "framework",
+    "twee",
+  "keywords": [
+    "url": "https://github.com/mesin/twee.git"
+  },
+  "repository": {
+    "type": "git",
+  },
+    "test": "test"
+  "scripts": {
+  "devDependencies": {},
 }
