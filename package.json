@@ -3,6 +3,7 @@
     "preferGlobal": false,
     "author": "Peter Sibirtsev <sibirtsev.peter@gmail.com>",
     "homepage": "https://github.com/sbrsv/twee",
+    "version": "0.0.9",
     "description": "Twee Framework - the most powerful, elegant and extensive framework for Node.js based on Express.js",
     "license": "MIT",
     "bin": {
