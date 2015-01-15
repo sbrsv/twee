@@ -19,8 +19,7 @@
         "events": "*",
         "commander": "*",
         "fs-extra": "*",
-        "file": "*",
-        "sha1": "*"
+        "file": "*"
     },
     "main": "index.js",
     "directories": {
@@ -28,17 +27,13 @@
     },
     "devDependencies": {},
     "scripts": {
-        "test": "NODE_PATH=/var/tmp/mochatweetestapp/node_modules mocha tests"
+        "test": "mocha tests"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/tweeio/twee-framework.git"
+        "url": "https://github.com/mesin/twee.git"
     },
     "keywords": [
-        "node.js",
-        "node",
-        "io.js",
-        "socket",
         "twee",
         "translate",
         "generate",
@@ -56,6 +51,7 @@
         "extensions"
     ],
     "bugs": {
-        "url": "https://github.com/tweeio/twee-framework/issues"
+        "url": "https://github.com/mesin/twee/issues"
     }
 }
+
