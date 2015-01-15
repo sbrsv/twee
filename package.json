@@ -11,6 +11,7 @@
         "twee-translate": "./bin/twee-translate.js"
     },
     "dependencies": {
+        "twee-extensions": ">= 0.0.6",
         "express": "*",
         "path": "*",
         "colors": "*",
