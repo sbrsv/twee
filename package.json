@@ -1,9 +1,9 @@
 {
     "name": "twee",
     "preferGlobal": false,
-    "version": "0.1.31",
-    "author": "Sibirtsev Peter <sibirtsev.petr@gmail.com>",
-    "homepage": "https://github.com/tweeio/twee-framework",
+    "version": "0.1.4",
+    "author": "Peter Sibirtsev <sibirtsev.peter@gmail.com>",
+    "homepage": "https://github.com/sbrsv/twee",
     "description": "Twee Framework - the most powerful, elegant and extensive framework for Node.js based on Express.js",
     "license": "MIT",
     "bin": {
